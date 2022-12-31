@@ -1,0 +1,1 @@
+A bare-minimum website containing an index page with links to recipes. Used to practice the foundations of html.
