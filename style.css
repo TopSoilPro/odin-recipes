@@ -1,0 +1,54 @@
+* {
+    font-family: 'Times New Roman', sans-serif;
+    color: black;
+}
+
+/* Adding different coloured backgrounds for each recipe page
+*/
+#cake * {
+    background-color: pink;
+}
+
+#nachos * {
+    background-color: orange;
+}
+
+#pasta * {
+    background-color: rgb(255, 238, 0);
+}
+
+#index * {
+    background-color: black;
+}
+
+/* Adding specific colouring themes and list sizes to the index page
+*/
+
+#index h1, #index li {
+    color: rgb(255, 0, 212);
+}
+
+
+.nacho {
+    color: orange;
+}
+
+.pasta {
+    color: yellow;
+}
+
+.cake {
+    color: pink;
+}
+
+#index li {
+    font-size: 25px;
+}
+
+/* Making all titles front and center
+*/
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+}
